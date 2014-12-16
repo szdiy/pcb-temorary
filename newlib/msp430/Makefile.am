@@ -1,0 +1,8 @@
+pcblibsubdir= @PCBTREEDIR@/msp430
+pcblibsub_DATA= ${COMPONENTS}
+COMPONENTS= \
+	MSP430F1121 \
+	MSP430F1121+jtag 
+
+EXTRA_DIST= ${COMPONENTS}
+
