@@ -2575,15 +2575,15 @@ msgstr "查看日志"
 
 #: ../src/gpcb-menu.res:459
 msgid "DRC Check"
-msgstr "Проверка проектных норм"
+msgstr "设计规则检查(DRC)"
 
 #: ../src/gpcb-menu.res:460 ../src/pcb-menu.res:439
 msgid "Netlist"
-msgstr "Список соединений"
+msgstr "网表"
 
 #: ../src/gpcb-menu.res:461
 msgid "Command Entry"
-msgstr "Ввод команды"
+msgstr "命令行入口"
 
 #: ../src/gpcb-menu.res:461 ../src/pcb-menu.res:185
 msgid ":"
@@ -2595,7 +2595,7 @@ msgstr "<Key>:"
 
 #: ../src/gpcb-menu.res:462 ../src/pcb-menu.res:440
 msgid "Pinout"
-msgstr "Выводы элемента"
+msgstr "引脚"
 
 #: ../src/gpcb-menu.res:462 ../src/pcb-menu.res:440
 msgid "Shift-D"
@@ -2607,31 +2607,31 @@ msgstr "Shift<Key>d"
 
 #: ../src/gpcb-menu.res:464 ../src/pcb-menu.res:32
 msgid "About..."
-msgstr "О программе..."
+msgstr "关于..."
 
 #: ../src/gpcb-menu.res:472
 msgid "Operations on selections"
-msgstr "Действия над выбранным"
+msgstr "选定的操作"
 
 #: ../src/gpcb-menu.res:473 ../src/pcb-menu.res:226
 msgid "Unselect all objects"
-msgstr "Снять выделение со всех объектов"
+msgstr "撤销所选项"
 
 #: ../src/gpcb-menu.res:475 ../src/pcb-menu.res:273
 msgid "Copy selection to buffer"
-msgstr "Копировать выбранное в буфер"
+msgstr "复制所选项"
 
 #: ../src/gpcb-menu.res:481 ../src/pcb-menu.res:275
 msgid "Cut selection to buffer"
-msgstr "Вырезать выбранное в буфер"
+msgstr "剪切所选项"
 
 #: ../src/gpcb-menu.res:489
 msgid "Auto place selected elements"
-msgstr "Авторазмещение выбранных элементов"
+msgstr "自动放置所选项"
 
 #: ../src/gpcb-menu.res:490
 msgid "Autoroute selected elements"
-msgstr "Автотрассировка выбранных элементов"
+msgstr "对所选项自动布线"
 
 #: ../src/gpcb-menu.res:493
 msgid "Operations on this location"
@@ -2639,7 +2639,7 @@ msgstr "Действия над этим расположением"
 
 #: ../src/gpcb-menu.res:497 ../src/pcb-menu.res:134
 msgid "Undo last operation"
-msgstr "Отменить последнее действие"
+msgstr "撤销上次操作"
 
 #: ../src/gpcb-menu.res:498 ../src/pcb-menu.res:135
 msgid "Redo last undone operation"
@@ -2651,7 +2651,7 @@ msgstr "Ничего"
 
 #: ../src/gpcb-menu.res:502 ../src/pcb-menu.res:167
 msgid "Via"
-msgstr "Переход"
+msgstr "过孔"
 
 #: ../src/gpcb-menu.res:502 ../src/pcb-menu.res:167
 msgid "F1"
@@ -2663,7 +2663,7 @@ msgstr "<Key>F1"
 
 #: ../src/gpcb-menu.res:503 ../src/pcb-menu.res:168
 msgid "Line"
-msgstr "Линия"
+msgstr "线"
 
 #: ../src/gpcb-menu.res:503 ../src/pcb-menu.res:168
 msgid "F2"
@@ -2675,7 +2675,7 @@ msgstr "<Key>F2"
 
 #: ../src/gpcb-menu.res:504 ../src/pcb-menu.res:169
 msgid "Arc"
-msgstr "Дуга"
+msgstr "拱形"
 
 #: ../src/gpcb-menu.res:504 ../src/pcb-menu.res:169
 msgid "F3"
@@ -2695,7 +2695,7 @@ msgstr "<Key>F4"
 
 #: ../src/gpcb-menu.res:506 ../src/pcb-menu.res:171
 msgid "Rectangle"
-msgstr "Прямоугольник"
+msgstr "矩形"
 
 #: ../src/gpcb-menu.res:506 ../src/pcb-menu.res:171
 msgid "F5"
@@ -2707,7 +2707,7 @@ msgstr "<Key>F5"
 
 #: ../src/gpcb-menu.res:507 ../src/pcb-menu.res:172
 msgid "Polygon"
-msgstr "Полигон"
+msgstr "多边形"
 
 #: ../src/gpcb-menu.res:507 ../src/pcb-menu.res:172
 msgid "F6"
@@ -2719,7 +2719,7 @@ msgstr "<Key>F6"
 
 #: ../src/gpcb-menu.res:508 ../src/pcb-menu.res:173
 msgid "Polygon Hole"
-msgstr "Отверстие в полигоне"
+msgstr "多边形孔"
 
 #: ../src/gpcb-menu.res:509 ../src/pcb-menu.res:174
 msgid "F7"
@@ -2739,7 +2739,7 @@ msgstr "<Key>F8"
 
 #: ../src/gpcb-menu.res:511 ../src/pcb-menu.res:176
 msgid "Rotate"
-msgstr "Повернуть"
+msgstr "旋转"
 
 #: ../src/gpcb-menu.res:511 ../src/pcb-menu.res:176
 msgid "F9"
@@ -2775,11 +2775,11 @@ msgstr "<Key>F11"
 
 #: ../src/gpcb-menu.res:514 ../src/pcb-menu.res:179
 msgid "Insert Point"
-msgstr "Точка вставки"
+msgstr "插入点"
 
 #: ../src/gpcb-menu.res:514 ../src/pcb-menu.res:179
 msgid "Insert"
-msgstr "Вставить"
+msgstr "插入"
 
 #: ../src/gpcb-menu.res:514 ../src/pcb-menu.res:179
 msgid "<Key>Insert"
